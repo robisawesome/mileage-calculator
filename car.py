@@ -6,7 +6,12 @@ startingloc = str(input("Where did you leave from?"))
 firstdest = str(input("Where did you go first?"))
 nextdest = str(input("Where did you go next?"))
 
+startingloc = 
 
 
+if startingloc == str(["monona","odana","home"]):
+    
 
-if startingloc == ())
+
+    else print("Please try again.")
+    return
