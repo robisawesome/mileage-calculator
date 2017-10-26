@@ -1,6 +1,7 @@
 #Author: Rob Hogue
 #Created: 10/22/2017
-##so sorry that you have to read this, im learning
+##so sorry that you have to read this, im learning. LITERALLY none of this is going to be relavant because im trying to
+##implement a google api
 
 def locations str[,]:
     startingloc = str(input("Where did you leave from?"))
